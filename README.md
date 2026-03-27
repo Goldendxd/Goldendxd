@@ -114,10 +114,10 @@ Open to:
 
 **Reach out if you want to build something thoughtful, not just functional.**
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com) [Email](mailto:your@email.com) •
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com) [Email](lamsal0shisir@email.com) •
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) [LinkedIn](https://linkedin.com/in/your-linkedin) •
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your_handle) [Instagram](https://instagram.com/your_handle) •
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_handle) [Twitter](https://twitter.com/your_handle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your_handle) [Instagram](https://www.instagram.com/_goldenxd/) •
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/goldendxd) [Discord]
 
 ---
 
