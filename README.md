@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Shisir&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Prompt%20Engineer%20%7C%20Builder&descAlignY=58&descAlign=50&stroke=6A5ACD&strokeWidth=2)](https://github.com/Goldendxd)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+quiet+but+bold+systems+%F0%9F%9A%80;Writing+code+that+thinks+%F0%9F%A7%A0;Blending+AI%2C+web+%26+words+%E2%9C%A8;Turning+prompts+into+products+%F0%9F%92%A1;Full-Stack+%7C+Prompt+Engineer+%7C+Creator+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6A5ACD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+quiet+but+bold+systems+%F0%9F%9A%80;Writing+code+that+thinks+%F0%9F%A7%A0;Blending+AI%2C+web+%26+words+%E2%9C%A8;Turning+prompts+into+products+%F0%9F%92%A1;Full-Stack+%7C+Prompt+Engineer+%7C+Builder+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <br/>
 
